@@ -1,4 +1,4 @@
-# Problem no 6: Write a program to check if given number is perfect square or not.
+# Write a program to check if given number is perfect square or not.
 import math
 def sqrt ():
     x = int(math.sqrt(num))
