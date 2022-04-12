@@ -1,4 +1,4 @@
-# Problem no 5: Write a program to check if a given number is Fibonacci number.
+#  Write a program to check if a given number is Fibonacci number.
 def fibo(num):
     c = 0
     a = 1
