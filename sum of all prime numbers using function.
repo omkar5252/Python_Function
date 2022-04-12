@@ -1,4 +1,4 @@
-# Problem No 2 : sum of all prime numbers using function.
+# sum of all prime numbers using function.
 
 def sum_of_prime_numbers():
     sum = 0
