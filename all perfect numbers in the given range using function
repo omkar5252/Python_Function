@@ -1,4 +1,4 @@
-# Problem no 4 :Write a program to check to print all perfect numbers in the given range.
+# Write a program to check to print all perfect numbers in the given range.
 def apn(start,end):
     for n in range(start,end+1):
         sum = 0
